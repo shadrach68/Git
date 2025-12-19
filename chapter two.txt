@@ -1,1 +1,2 @@
-this is the chapter 2 of the version control
+this is the chapter 2 of the version control.
+also wrote on this file, while on the second branch.
